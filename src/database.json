@@ -1,0 +1,39 @@
+{
+    "products" : [
+        { "image":"http://localhost:3000/static/media/183982--product.7471bd5655fdd79626d2.jpg", "ten":"ao thun 3 lo", "gia":"1 ty"},
+        { "image":"http://localhost:3000/static/media/183982--product.7471bd5655fdd79626d2.jpg", "ten":"ao thun 3 lo", "gia":"1 ty"},
+        { "image":"http://localhost:3000/static/media/183982--product.7471bd5655fdd79626d2.jpg", "ten":"ao thun 3 lo", "gia":"1 ty"},
+        { "image":"http://localhost:3000/static/media/183982--product.7471bd5655fdd79626d2.jpg", "ten":"ao thun 3 lo", "gia":"1 ty"},
+        { "image":"http://localhost:3000/static/media/183982--product.7471bd5655fdd79626d2.jpg", "ten":"ao thun 3 lo", "gia":"1 ty"}
+    ],
+    "Categorys" :[
+        {"id":1, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":2, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":3, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":4, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":5, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":6, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":7, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":8, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"}
+    ],
+    "Menus" :[
+        {"id":1, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":2, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":3, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":4, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":5, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":6, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":7, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":8, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"}
+    ],
+    "Posts" :[
+        {"id":1, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":2, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":3, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":4, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":5, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":6, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":7, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"},
+        {"id":8, "image": "hinh.jpg", "name": "thoi trang nu", "slug": "thoi-trang-nu"}
+    ]
+}
